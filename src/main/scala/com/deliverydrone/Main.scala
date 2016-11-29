@@ -7,7 +7,7 @@ import com.deliverydrone.delivery.Delivery
 
 
 /**
- * Objeto Main que ejecuta los domiicios.
+ * Objeto Main que ejecuta los domicilios.
  *
   * Created by ALEJANDRO on 26/11/2016.
   */
